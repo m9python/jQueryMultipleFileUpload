@@ -8,7 +8,7 @@ This jQuery Multiple File Upload Plugin ($.MultiFile) is a non-obstrusive plugin
 ##Installation
 * Current version: 1.48
 * Release date: 2013-02-19
-* Download: <a href="http://jquery-multifile-plugin.googlecode.com/svn/trunk/multiple-file-upload.zip"><strong>multiple-file-upload.zip</strong></a>
+* Download: Use the standard link of GitHub
 
 ---
  
